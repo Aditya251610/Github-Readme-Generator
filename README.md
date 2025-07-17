@@ -1,4 +1,4 @@
-````markdown
+
 # 📄 GitHub Repo Doc Generation Workflow (n8n)
 
 Generate structured, professional README.md files automatically by analyzing all files in a public GitHub repository using n8n and an AI agent.
