@@ -101,6 +101,3 @@ Example:
 * Only **public GitHub repositories** are supported.
 * Sensitive files like `.env` are automatically excluded.
 * Be mindful of API limits when using cloud AI services like OpenAI or Groq.
-
-```
-```
